@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2936
+
+This bash script open a vim instance showing diff, status and an editable comment buffer for you commit message.
